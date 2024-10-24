@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-ecd4bca1e157b37151eb.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Resuelto3",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Resuelto3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Resuelto3-Debug-579df028da0df765f5bc.json",
+					"name" : "Resuelto3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Resuelto3_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Resuelto3_autogen-Debug-114bb706bf27940222dd.json",
+					"name" : "Resuelto3_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Resuelto3_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Resuelto3_autogen_timestamp_deps-Debug-27da2114bdb482aefedc.json",
+					"name" : "Resuelto3_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/SEMESTRE_6/TO/LAB04/Resuelto3/Resuelto3/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug",
+		"source" : "D:/SEMESTRE_6/TO/LAB04/Resuelto3/Resuelto3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

@@ -1,0 +1,20 @@
+# ninja log v5
+2	178	7515061669007392	Resuelto3_autogen/timestamp	a1bdf6e1aabf925a
+2	178	7515061669007392	Resuelto3_autogen/mocs_compilation.cpp	a1bdf6e1aabf925a
+2	178	7515061669007392	D:/SEMESTRE_6/TO/LAB04/Resuelto3/Resuelto3/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Resuelto3_autogen/timestamp	a1bdf6e1aabf925a
+2	178	7515061669007392	D:/SEMESTRE_6/TO/LAB04/Resuelto3/Resuelto3/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Resuelto3_autogen/mocs_compilation.cpp	a1bdf6e1aabf925a
+183	240	7515061670092660	CMakeFiles/Resuelto3.dir/Resuelto3_autogen/mocs_compilation.cpp.obj	3451fe547e53a836
+180	2126	7515061688934439	CMakeFiles/Resuelto3.dir/main.cpp.obj	3405cfec0e609f63
+2128	2267	7515061690309607	Resuelto3.exe	5564289157d63541
+6	213	7515105826809283	Resuelto3_autogen/timestamp	a1bdf6e1aabf925a
+6	213	7515105826809283	Resuelto3_autogen/mocs_compilation.cpp	a1bdf6e1aabf925a
+6	213	7515105826809283	D:/SEMESTRE_6/TO/LAB04/Resuelto3/Resuelto3/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Resuelto3_autogen/timestamp	a1bdf6e1aabf925a
+6	213	7515105826809283	D:/SEMESTRE_6/TO/LAB04/Resuelto3/Resuelto3/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Resuelto3_autogen/mocs_compilation.cpp	a1bdf6e1aabf925a
+223	3900	7515105869103937	CMakeFiles/Resuelto3.dir/main.cpp.obj	3405cfec0e609f63
+3900	4138	7515105871446689	Resuelto3.exe	5564289157d63541
+9	210	7515109797463901	Resuelto3_autogen/timestamp	a1bdf6e1aabf925a
+9	210	7515109797463901	Resuelto3_autogen/mocs_compilation.cpp	a1bdf6e1aabf925a
+9	210	7515109797463901	D:/SEMESTRE_6/TO/LAB04/Resuelto3/Resuelto3/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Resuelto3_autogen/timestamp	a1bdf6e1aabf925a
+9	210	7515109797463901	D:/SEMESTRE_6/TO/LAB04/Resuelto3/Resuelto3/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Resuelto3_autogen/mocs_compilation.cpp	a1bdf6e1aabf925a
+220	3282	7515109844113744	CMakeFiles/Resuelto3.dir/main.cpp.obj	3405cfec0e609f63
+3282	3487	7515109846103864	Resuelto3.exe	5564289157d63541

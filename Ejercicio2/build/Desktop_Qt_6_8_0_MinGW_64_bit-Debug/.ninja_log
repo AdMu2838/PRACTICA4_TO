@@ -1,0 +1,16 @@
+# ninja log v5
+3	1200	7515120335765834	Ejercicio2_autogen/timestamp	ef03a94b74753056
+3	1200	7515120335765834	Ejercicio2_autogen/mocs_compilation.cpp	ef03a94b74753056
+3	1200	7515120335765834	D:/SEMESTRE_6/TO/LAB04/Ejercicio2/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Ejercicio2_autogen/timestamp	ef03a94b74753056
+3	1200	7515120335765834	D:/SEMESTRE_6/TO/LAB04/Ejercicio2/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Ejercicio2_autogen/mocs_compilation.cpp	ef03a94b74753056
+1215	4321	7515120368365476	CMakeFiles/Ejercicio2.dir/Ejercicio2_autogen/mocs_compilation.cpp.obj	23ad7a4a89bf82ac
+1233	4426	7515120369422417	CMakeFiles/Ejercicio2.dir/mainwindow.cpp.obj	cbb04caa4cbef79a
+1221	5044	7515120375583573	CMakeFiles/Ejercicio2.dir/main.cpp.obj	dd3502d55f29fa06
+5045	5357	7515120378684092	Ejercicio2.exe	c19bfc8cd81cf921
+11	1001	7515120883208292	Ejercicio2_autogen/timestamp	ef03a94b74753056
+11	1001	7515120883208292	Ejercicio2_autogen/mocs_compilation.cpp	ef03a94b74753056
+11	1001	7515120883208292	D:/SEMESTRE_6/TO/LAB04/Ejercicio2/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Ejercicio2_autogen/timestamp	ef03a94b74753056
+11	1001	7515120883208292	D:/SEMESTRE_6/TO/LAB04/Ejercicio2/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/Ejercicio2_autogen/mocs_compilation.cpp	ef03a94b74753056
+1028	4781	7515122502855506	CMakeFiles/Ejercicio2.dir/mainwindow.cpp.obj	cbb04caa4cbef79a
+1023	5664	7515122511664528	CMakeFiles/Ejercicio2.dir/main.cpp.obj	dd3502d55f29fa06
+5665	6067	7515122515652638	Ejercicio2.exe	c19bfc8cd81cf921
